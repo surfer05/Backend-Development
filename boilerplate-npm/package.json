@@ -13,5 +13,10 @@
   },
   "author": "surfer05",
   "description": "This is the basic start to my backend development journey.",
-  "keywords": ["descriptive","related","words"]
+  "keywords": [
+    "descriptive",
+    "related",
+    "words"
+  ],
+  "license": "MIT"
 }
